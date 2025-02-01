@@ -1,0 +1,28 @@
+/* Tema Claro (padrão) */
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Tema Escuro */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+/* Estilo do botão */
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #555;
+}
